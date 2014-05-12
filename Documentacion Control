@@ -1,0 +1,12 @@
+Documentación de sistemas de control (según ISA).
+
+    En la industria, existen muchos profesionales involucrados con la instrumentación. Ya sean ingnieros de control, de 
+    instrumentación, de automatización, operarios, disenadores, mantenimiento, etc, todos ellos algo tienen que ver con los     sistemas de control e instrumentación.
+    
+    Por tanto es necesario crear una herramienta de comunicación que permita a todos estos profesionales transmitir             información de forma efectiva y eficiente. Para eso se inventaron los símbolos y códigos estandar, que en definitiva son     herramientas gráficas para la comunicación. 
+    
+    Estos símbolos los podemos encontrar en documentos como: bocetos de ingeniería, diagramas de instalación, diagramas de      localización, diagramas de lazo, diagramas lógicos, documentos de procedimientos, en manuales de puesta en marcha y         operación, diagramas P&ID, entre muchos otros.
+    
+    La idea de este documentos, es mostrar los fundamentos del por qué es necesaria una forma estandar de comunicación, mas     que describir el cómo deberían ser los documentos finales. Esto se debe a que lo verdaderamente importante es saber qué     información debería estar en determinado documento, y se deja el cómo, o la apariencia del documento, a la empresa o al     fabricante. 
+
+    
