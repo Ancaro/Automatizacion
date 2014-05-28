@@ -1,12 +1,19 @@
 Documentación de sistemas de control (según ISA).
 
-    En la industria, existen muchos profesionales involucrados con la instrumentación. Ya sean ingnieros de control, de 
-    instrumentación, de automatización, operarios, disenadores, mantenimiento, etc, todos ellos algo tienen que ver con los     sistemas de control e instrumentación.
+Cuando hablamos de diseno de sistemas de control, los ingenieros usan representaciones graficas de ideas, dispositivos o    funciones. Esto con dos propositos: conceptualizar y transmitir informacion.
     
-    Por tanto es necesario crear una herramienta de comunicación que permita a todos estos profesionales transmitir             información de forma efectiva y eficiente. Para eso se inventaron los símbolos y códigos estandar, que en definitiva son     herramientas gráficas para la comunicación. 
+Siempre que un ingeniero este escribiendo una documentacion, es importante que siempre tenga en mente a la persona que 		va a usar esa documentacion, y entender las necesidades de esa persona le va a permitir hacer un mejor trabajo de 			documentacion. 
     
-    Estos símbolos los podemos encontrar en documentos como: bocetos de ingeniería, diagramas de instalación, diagramas de      localización, diagramas de lazo, diagramas lógicos, documentos de procedimientos, en manuales de puesta en marcha y         operación, diagramas P&ID, entre muchos otros.
+Siempre es importante tener en mente que lo que se quiere tansmitir son conceptos. Por tanto, los graficos deben venir 		ajustados a esos conceptos y no a otros. Por ejemplo, dibujar una sola linea para una senal que se transmite usando 		dos lineas de cobre, esta bien en casos donde no interesa el detalle de la transmision, interesa que existe esa 			transmision.
     
-    La idea de este documentos, es mostrar los fundamentos del por qué es necesaria una forma estandar de comunicación, mas     que describir el cómo deberían ser los documentos finales. Esto se debe a que lo verdaderamente importante es saber qué     información debería estar en determinado documento, y se deja el cómo, o la apariencia del documento, a la empresa o al     fabricante. 
+Primero es necesario tener algo que comunicar, y luego un alguien a quien comunicar. Estos dos factores deciden que tipo de documento usar y el grado de detalle que se requiere para poder transmitir el mensaje de forma efectiva.
 
-    
+Tambien se debe tener en cuenta la continuidad de los conceptos, ya que un mismo concepto puede aparecer en varios documentos y visto desde distintos niveles de detalle. Es importante que la representacion que se de para este concepto, no cambie radicalmente paracada tipo de documento. Debe haber continuidad en el concepto.
+
+Es obvio que un lenguaje estandar es necesario si tu objetivo es hacer que otras personas reciban tu mensaje. El objetivo de la comunicacion es ser simple, completa, clara, consistente, flexible y compacta. 
+
+
+Empezamos con las formas geometricas que son usadas en los estandares para documentar sistemas de control e instrumentacion.
+
+- Circulos: se usa para representar un instrumento o una bandera. 
+
